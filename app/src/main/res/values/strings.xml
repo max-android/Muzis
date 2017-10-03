@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Muzis</string>
+    <string name="not_network">Сбой подключения - подключите интернет</string>
+    <string name="error_connect">Произошла ошибка во время сети</string>
+
+    <string name="font_roboto_medium">fonts/Roboto-Medium.ttf</string>
+    <string name="font_roboto_regular">fonts/Roboto-Regular.ttf</string>
+</resources>

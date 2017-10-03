@@ -1,0 +1,9 @@
+<resources>
+
+    <dimen name="text_size_snack">8sp</dimen>
+    <dimen name="padding_containers">16dp</dimen>
+    <dimen name="padding_components">8dp</dimen>
+    <dimen name="text_size_artists">20sp</dimen>
+    <dimen name="text_size_songs">16sp</dimen>
+
+</resources>
